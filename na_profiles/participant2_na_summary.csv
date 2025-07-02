@@ -1,0 +1,5 @@
+file,timestamp_iso,accelerometers_std_g,missing_value_reason,counts_x_axis,counts_y_axis,counts_z_axis,vector_magnitude,activity_class,activity_counts,activity_intensity,body_position_left,body_position_right,eda_scl_usiemens,met,prv_rmssd_ms,pulse_rate_bpm,respiratory_rate_brpm,sleep_detection_stage,step_counts,temperature_celsius,wearing_detection_percentage,hour,minute
+cleaned_2024-01-09.csv,0.0,11.4,88.6,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.5,11.5,11.4,11.4,87.6,11.4,96.5,11.4,11.4,11.4,10.3,0.0,0.0
+cleaned_2024-01-10.csv,0.0,8.4,91.6,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,8.4,82.8,8.4,93.5,8.4,8.4,8.4,4.8,0.0,0.0
+cleaned_2024-01-11.csv,0.0,11.4,88.6,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.5,11.5,11.4,11.4,87.6,11.4,96.5,11.4,11.4,11.4,10.3,0.0,0.0
+cleaned_2024-01-12.csv,0.0,11.5,88.5,11.5,11.5,11.5,11.5,11.5,11.5,11.5,11.5,11.5,11.5,11.5,72.5,11.5,87.2,18.3,11.5,11.5,9.9,0.0,0.0

@@ -1,0 +1,12 @@
+participant_id,date,stress_level,notes
+6,2024-04-01,2,"Stress from tossing/turning at night, clinic series 5–8am, case report, tours"
+6,2024-04-02,2,"Extra-stressful patient (stitches), long day, stress until midnight"
+6,2024-04-03,2,"Board prep, presentation, full clinic day, naps with high EDA"
+6,2024-04-04,2,"Clinic patients, bar hopping, sleep disruption, high stress throughout"
+6,2024-04-05,2,"Tough patient who got mad and left, multiple patients back to back"
+6,2024-04-06,1,"Bridal shower and party, some stress but lower than clinic days"
+6,2024-04-07,0,"Low activity day, no major clinical stress recorded"
+6,2024-04-08,2,"Heart attack admission, multiple patients, heavy care load"
+6,2024-04-09,2,"Multiple admissions, code, steady stress all day"
+6,2024-04-10,2,"Rounding, respiratory decompensation, mentor rec, family call, essays"
+

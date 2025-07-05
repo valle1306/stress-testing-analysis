@@ -1,0 +1,7 @@
+participant_id,date,stress_level,notes
+1,2023-12-24,2,"Night shift in CCU, code stroke, hypertensive emergency, frustrated at ED"
+1,2023-12-25,2,"Continued night shift, fatigue, heavy snacking, sleep disruption"
+1,2023-12-26,1,"More sugar and overeating, CCU night, but fewer critical events noted"
+1,2023-12-27,2,"Off day, interrupted sleep by emergency calls, alcohol use, stress eating"
+1,2023-12-28,1,"CCU day shift, high caffeine, lots of food, ends with wine and curry"
+1,2023-12-29,1,"CCU shift, lifting weights, sugar intake, likely residual fatigue"

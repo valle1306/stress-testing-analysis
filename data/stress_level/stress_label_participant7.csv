@@ -1,0 +1,13 @@
+participant_id,date,stress_level,notes
+7,2024-04-15,2,"Stressful new service"
+7,2024-04-16,2,"Near car accident, physical labor moving couch, poor sleep"
+7,2024-04-18,2,"Woke up at 3AM from glucose alarms, crashing patient admission, NF sign-out"
+7,2024-04-19,2,"3AM low glucose again, car bump incident, multiple stressors"
+7,2024-04-20,1,"Long rounds, traffic, GI distress during workout"
+7,2024-04-21,2,"Stuck with patient, family meeting, difficult discharge, weekend sign-out stress"
+7,2024-04-22,2,"Sleep disruption, data access issues, CGM download stress"
+7,2024-04-23,1,"Test question stress, relaxing walk later in day"
+7,2024-04-24,1,"Working on chart of deceased patient"
+7,2024-04-25,0,"No data"
+7,2024-04-26,1,"Pedicure, annoyed at mom"
+7,2024-04-27,0,"Low-stress food log day, no major stress mentioned"

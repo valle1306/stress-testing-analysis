@@ -1,0 +1,23 @@
+participant_id,start_date,mid_date1,mid_date2,end_date,date,stress_level,notes
+1,2023-12-25,2023-12-26,2023-12-27,2023-12-28,2023-12-25,2,"Continued night shift, fatigue, heavy snacking, sleep disruption"
+3,2024-02-13,2024-02-14,2024-02-15,2024-02-16,2024-02-13,1,"Board review stress in AM, errands in PM, mild stress"
+3,2024-02-14,2024-02-15,2024-02-16,2024-02-17,2024-02-14,2,"Woke early, board review, rushed to clinic, stressful dinner routine"
+3,2024-02-15,2024-02-16,2024-02-17,2024-02-18,2024-02-15,2,"Leg cramps, complicated patient cases, studying for STEP, NYC driving"
+3,2024-02-16,2024-02-17,2024-02-18,2024-02-19,2024-02-16,1,"Board review, errands, shopping, mild stress with fasting and travel"
+3,2024-02-17,2024-02-18,2024-02-19,2024-02-20,2024-02-17,0,"Snow cleanup, rest, no stress noted"
+4,2024-03-05,2024-03-06,2024-03-07,2024-03-08,2024-03-05,2,"Critical labs, missing note, answering emails, movie late night"
+4,2024-03-06,2024-03-07,2024-03-08,2024-03-09,2024-03-06,0,"Museum day, webinar trouble, Korean BBQ, relaxing day"
+6,2024-04-01,2024-04-02,2024-04-03,2024-04-04,2024-04-01,2,"Stress from tossing/turning at night, clinic series 5–8am, case report, tours"
+6,2024-04-06,2024-04-07,2024-04-08,2024-04-09,2024-04-06,1,"Bridal shower and party, some stress but lower than clinic days"
+6,2024-04-07,2024-04-08,2024-04-09,2024-04-10,2024-04-07,0,"Low activity day, no major clinical stress recorded"
+7,2024-04-15,2024-04-16,2024-04-17,2024-04-18,2024-04-15,2,Stressful new service
+7,2024-04-16,2024-04-17,2024-04-18,2024-04-19,2024-04-16,2,"Near car accident, physical labor moving couch, poor sleep"
+7,2024-04-18,2024-04-19,2024-04-20,2024-04-21,2024-04-18,2,"Woke up at 3AM from glucose alarms, crashing patient admission, NF sign-out"
+7,2024-04-19,2024-04-20,2024-04-21,2024-04-22,2024-04-19,2,"3AM low glucose again, car bump incident, multiple stressors"
+7,2024-04-20,2024-04-21,2024-04-22,2024-04-23,2024-04-20,1,"Long rounds, traffic, GI distress during workout"
+7,2024-04-21,2024-04-22,2024-04-23,2024-04-24,2024-04-21,2,"Stuck with patient, family meeting, difficult discharge, weekend sign-out stress"
+7,2024-04-22,2024-04-23,2024-04-24,2024-04-25,2024-04-22,2,"Sleep disruption, data access issues, CGM download stress"
+7,2024-04-23,2024-04-24,2024-04-25,2024-04-26,2024-04-23,1,"Test question stress, relaxing walk later in day"
+8,2024-05-08,2024-05-09,2024-05-10,2024-05-11,2024-05-08,1,"Traded risky stocks, drove to Costco, gym, food-focused day"
+8,2024-05-09,2024-05-10,2024-05-11,2024-05-12,2024-05-09,2,"Discharge wrap-up stress, surgery denial, late GI call"
+8,2024-05-10,2024-05-11,2024-05-12,2024-05-13,2024-05-10,1,Still dealing with admissions at 6 PM

@@ -1,5 +1,6 @@
 participant_id,start_date,mid_date1,mid_date2,end_date,date,stress_level,notes
 1,2023-12-25,2023-12-26,2023-12-27,2023-12-28,2023-12-25,2,"Continued night shift, fatigue, heavy snacking, sleep disruption"
+2,2024-01-09,2024-01-10,2024-01-11,2024-01-12,2024-01-09,1,Skipped prayer; some irregular intake; no explicit stress
 3,2024-02-13,2024-02-14,2024-02-15,2024-02-16,2024-02-13,1,"Board review stress in AM, errands in PM, mild stress"
 3,2024-02-14,2024-02-15,2024-02-16,2024-02-17,2024-02-14,2,"Woke early, board review, rushed to clinic, stressful dinner routine"
 3,2024-02-15,2024-02-16,2024-02-17,2024-02-18,2024-02-15,2,"Leg cramps, complicated patient cases, studying for STEP, NYC driving"

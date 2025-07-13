@@ -5,10 +5,10 @@ participant_id,date,stress_level,notes
 1,2023-12-27,2,"Off day, interrupted sleep by emergency calls, alcohol use, stress eating"
 1,2023-12-28,1,"CCU day shift, high caffeine, lots of food, ends with wine and curry"
 1,2023-12-29,1,"CCU shift, lifting weights, sugar intake, likely residual fatigue"
-2,2024-01-13,3,"7–7:30 PM witnessed car crash, stayed up all night watching true crime"
-2,2024-01-14,2,"Woke up repeatedly at 5 AM, slept late, helped carry groceries up stairs"
-2,2024-01-15,2,"Early wakeup for work, long day including driving, late night true crime"
-2,2024-01-16,1,"Woke up early at 5 AM, but no major stressors noted"
+2,2024-01-09,1,Skipped prayer; some irregular intake; no explicit stress
+2,2024-01-10,2,Complex ESRD patient; missed prayer; woke up dreaming of hospital
+2,2024-01-11,1,Clinic confusion; self-reported less stress despite early waking
+2,2024-01-12,1,Extra patient; late notes; no strong high-stress language
 3,2024-02-12,2,"Clinic AM/PM, multiple patients, preceptor issues, stress over Step 3 scheduling"
 3,2024-02-13,1,"Board review stress in AM, errands in PM, mild stress"
 3,2024-02-14,2,"Woke early, board review, rushed to clinic, stressful dinner routine"

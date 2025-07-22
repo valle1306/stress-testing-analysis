@@ -1,8 +1,8 @@
-file,timestamp_iso,accelerometers_std_g,missing_value_reason,counts_x_axis,counts_y_axis,counts_z_axis,vector_magnitude,activity_class,activity_counts,activity_intensity,body_position_left,body_position_right,eda_scl_usiemens,met,pulse_rate_bpm,sleep_detection_stage,step_counts,temperature_celsius,wearing_detection_percentage,hour,minute,prv_rmssd_ms,respiratory_rate_brpm
-cleaned_2023-12-24.csv,0.0,99.9,0.1,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,99.9,0.0,0.0,,
-cleaned_2023-12-25.csv,0.0,5.6,94.4,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,5.6,1.3,0.0,0.0,89.5,84.4
-cleaned_2023-12-26.csv,0.0,27.2,72.8,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,27.2,23.5,0.0,0.0,97.8,96.5
-cleaned_2023-12-27.csv,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,74.6,68.4
-cleaned_2023-12-28.csv,0.0,6.5,93.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,0.0,0.0,0.0,92.0,90.7
-cleaned_2023-12-29.csv,0.0,56.5,43.5,56.5,56.5,56.5,56.5,56.5,56.5,56.5,56.6,56.6,56.5,56.5,56.5,56.5,56.5,56.5,26.3,0.0,0.0,95.6,92.4
-cleaned_2023-12-30.csv,0.0,52.2,47.8,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,52.2,49.9,0.0,0.0,91.0,86.5
+file,timestamp_iso,accelerometers_std_g,counts_x_axis,counts_y_axis,counts_z_axis,vector_magnitude,activity_class,activity_counts,activity_intensity,body_position_left,body_position_right,eda_scl_usiemens,met,pulse_rate_bpm,sleep_detection_stage,step_counts,temperature_celsius,wearing_detection_percentage,hour,minute,missing_value_reason,prv_rmssd_ms,respiratory_rate_brpm
+cleaned_2023-12-24.csv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+cleaned_2023-12-25.csv,0.0,4.3,4.3,4.3,4.3,4.3,4.3,4.3,4.3,4.4,4.4,4.3,4.3,4.3,4.3,4.3,4.3,0.0,0.0,0.0,95.7,89.4,84.2
+cleaned_2023-12-26.csv,0.0,4.7,4.7,4.7,4.7,4.7,4.7,4.7,4.7,4.8,4.8,4.7,4.7,4.7,4.7,4.7,4.7,0.0,0.0,0.0,95.3,97.2,95.4
+cleaned_2023-12-27.csv,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,74.6,68.4
+cleaned_2023-12-28.csv,0.0,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,6.5,0.0,0.0,0.0,93.5,92.0,90.7
+cleaned_2023-12-29.csv,0.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,41.0,41.1,41.1,41.0,41.0,41.0,41.0,41.0,41.0,0.0,0.0,0.0,59.0,94.1,89.6
+cleaned_2023-12-30.csv,0.0,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,4.4,0.0,0.0,0.0,95.6,82.1,73.0

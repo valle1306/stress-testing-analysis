@@ -1,0 +1,8 @@
+file,timestamp_iso,accelerometers_std_g,missing_value_reason,counts_x_axis,counts_y_axis,counts_z_axis,vector_magnitude,activity_class,activity_counts,activity_intensity,body_position_left,body_position_right,eda_scl_usiemens,met,prv_rmssd_ms,pulse_rate_bpm,respiratory_rate_brpm,sleep_detection_stage,step_counts,temperature_celsius,wearing_detection_percentage,hour,minute
+cleaned_2023-12-16.csv,0.0,0.2,99.8,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.4,0.4,0.2,0.2,96.8,0.2,87.9,0.2,0.2,0.2,0.0,0.0,0.0
+cleaned_2023-12-17.csv,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.7,0.0,76.2,0.0,0.0,0.0,0.0,0.0,0.0
+cleaned_2023-12-18.csv,0.0,0.1,99.9,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.3,0.3,0.1,0.1,88.3,0.1,82.0,0.1,0.1,0.1,0.0,0.0,0.0
+cleaned_2023-12-19.csv,0.0,2.5,97.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,79.9,2.5,79.0,2.5,2.5,2.5,0.0,0.0,0.0
+cleaned_2023-12-20.csv,0.0,7.4,92.6,7.4,7.4,7.4,7.4,7.4,7.4,7.4,7.4,7.4,7.4,7.4,65.9,7.4,71.8,7.4,7.4,7.4,0.0,0.0,0.0
+cleaned_2023-12-21.csv,0.0,2.4,97.6,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,79.7,2.4,75.8,2.4,2.4,2.4,0.0,0.0,0.0
+cleaned_2023-12-22.csv,0.0,11.4,88.6,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.4,11.4,83.6,11.4,82.4,12.9,11.4,11.4,0.0,0.0,0.0
